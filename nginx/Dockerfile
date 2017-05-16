@@ -1,4 +1,4 @@
-# Set nginx base image
+# Set nginx base image CAMBIO PARA EL COMENTARIO
 FROM nginx
 
 # File Author / Maintainer
